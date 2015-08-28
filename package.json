@@ -1,0 +1,27 @@
+{
+  "name": "few-eslint",
+  "version": "0.1.0",
+  "description": "An eslint plugin for front-end-work-flow",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylor1791/few-eslint.git"
+  },
+  "keywords": [
+    "few",
+    "front-end-work-flow",
+    "Taylor1791"
+  ],
+  "author": "Taylor Everding <Taylor@Everding.email>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylor1791/few-eslint/issues"
+  },
+  "homepage": "https://github.com/taylor1791/few-eslint#readme",
+  "dependencies": {
+    "ramda": "^0.17.1"
+  }
+}
