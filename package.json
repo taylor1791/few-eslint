@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/taylor1791/few-eslint#readme",
   "dependencies": {
+    "gulp-eslint": "^1.0.0",
     "ramda": "^0.17.1"
   }
 }
