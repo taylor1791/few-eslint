@@ -40,6 +40,8 @@ Options
 `few.eslint` - `{ rules: {} }` - This is a json object that will define your 
 eslint rules.
 
+Note: All rules in `few.eslint` take priority over `few.eslintrc`.
+
 To see how to configure `eslint`, see the `eslint` 
 [user-guide](http://eslint.org/docs/user-guide/configuring).
 
