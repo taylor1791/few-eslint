@@ -1,6 +1,6 @@
 {
   "name": "few-eslint",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An eslint plugin for front-end-work-flow",
   "main": "gulpfile.js",
   "scripts": {
