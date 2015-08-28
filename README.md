@@ -35,7 +35,7 @@ few.files.node = ['gulpfile.js'];
 
 Options
 -------
-`few.eslintrc` - '.eslintrc' - This is the name of eslint config file.
+`few.eslintrc` - `'.eslintrc'` - This is the name of eslint config file.
 `few` will read this file and use it as a base for your `eslint` rules.  
 `few.eslint` - `{ rules: {} }` - This is a json object that will define your 
 eslint rules.
